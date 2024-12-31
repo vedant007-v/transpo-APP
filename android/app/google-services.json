@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "696456715362",
+    "project_id": "traspo-70399",
+    "storage_bucket": "traspo-70399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696456715362:android:2bfaf74543ed590ddc453b",
+        "android_client_info": {
+          "package_name": "com.example.transpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696456715362-18nbkeu8lf1c48m5u8d69uo3duttedsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDTF8TvYV8-DBva4TATx1M5uH84mQoFKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696456715362-18nbkeu8lf1c48m5u8d69uo3duttedsl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "696456715362-7188qcarqk9pb9js58hkbl8sj0d0b2sr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.transpo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
